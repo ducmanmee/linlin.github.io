@@ -1,0 +1,12 @@
+@media screen and (max-width:550px) {
+    body {
+        background-image: url('./404.png') !important;
+        background-color: #ccc ; 
+    }
+    .pyro {
+        display: none;
+    }
+    #card {
+        display: none;
+    }
+}
